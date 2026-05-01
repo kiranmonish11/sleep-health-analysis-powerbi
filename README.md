@@ -29,7 +29,7 @@ Analyze how stress, lifestyle, and BMI impact sleep quality and identify high-ri
 ![Analysis](Screenshots/Page2_analysis.png)
 
 ### 🔹 Risk & Recommendations
-![Risk](Screenshots/Page3_risk.png)
+![Risk](Screenshots/Page3_risks.png)
 
 ---
 
